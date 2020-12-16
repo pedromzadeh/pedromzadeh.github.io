@@ -7,9 +7,9 @@ permalink:        pretty
 relative_permalinks: false
 
 # Setup
-title:            page_title
-tagline:          'page_Tag_line'
-description:      'page_description'
+title:            site_title
+tagline:          'site_Tag_line'
+description:      'site_description'
 url:              http://pedromzadeh.github.io
 baseurl:          /
 
