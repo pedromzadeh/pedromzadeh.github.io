@@ -1002,6 +1002,23 @@ table tfoot td {
   margin: 0 0 10px;
 }
 
+a {
+  font-size: 1em;
+  color: #333030;
+  text-decoration: none;
+
+    -webkit-transition: color 0.3s, font-size 0.3s;
+       -moz-transition: color 0.3s, font-size 0.3s;
+         -o-transition: color 0.3s, font-size 0.3s;
+            transition: color 0.3s, font-size 0.3s;
+}
+
+a:hover {
+  font-size: 1.1em;
+  font-weight: 700;
+  color: #333030;
+}
+
 .content-box {
   padding: 20px;
   padding-left: 260px;
