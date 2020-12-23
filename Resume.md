@@ -3,5 +3,5 @@ layout: page
 title: Resume
 ---
 
-<iframe src="{{site.baseurl}}/assets/pdf_test.pdf#toolbar=0" width="100%" height="500px"></iframe>
+#### Thank you for your interest in my academic and career history. Feel free to reach out and request a copy of my resume. 
 
