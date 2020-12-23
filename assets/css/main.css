@@ -1005,18 +1005,18 @@ table tfoot td {
 a {
   font-size: 1em;
   color: #333030;
-  text-decoration: none;
+  text-decoration: underline;
 
-    -webkit-transition: color 0.3s, font-size 0.3s;
-       -moz-transition: color 0.3s, font-size 0.3s;
-         -o-transition: color 0.3s, font-size 0.3s;
-            transition: color 0.3s, font-size 0.3s;
+    -webkit-transition: color 0.1s, font-size 0.1s;
+       -moz-transition: color 0.1s, font-size 0.1s;
+         -o-transition: color 0.1s, font-size 0.1s;
+            transition: color 0.1s, font-size 0.1s;
 }
 
 a:hover {
   font-size: 1.1em;
-  font-weight: 700;
-  color: #333030;
+  font-weight: 600;
+  color: #6495ED;
 }
 
 .content-box {
