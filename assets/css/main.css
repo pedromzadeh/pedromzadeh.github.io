@@ -1004,7 +1004,7 @@ table tfoot td {
 
 a {
   font-size: 1em;
-  font-weight: 400;
+  font-weight: 600;
   color: #333030;
   text-decoration: underline;
 
@@ -1016,7 +1016,7 @@ a {
 
 a:hover {
   font-size: 1.1em;
-  font-weight: 600;
+  font-weight: 800;
   color: #6495ED;
 }
 
