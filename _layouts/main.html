@@ -14,6 +14,15 @@ layout: default
   </header> <!-- End Header -->
   
   <header>
+    {% assign pages_list = site.pages %}
+      {% for node in pages_list %}
+        {% if node.title != null %}
+          {% if node.layout == "page" %}
+            <a href="{{ node.url }}">{{ node.title }}</a>
+          {% endif %}
+        {% endif %}
+      {% endfor %}
+    
     <a href="{{site.baseurl}}/projects.md"> Projects</a>  
   </header>
   
