@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Test
+title: Projcts
 ---
 
 This is a test
