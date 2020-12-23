@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projcts
+title: Projects
 ---
 
 This is a test
