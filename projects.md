@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Test
-permalink: /
+permalink: pedromzadeh.github.io/
 ---
 
 This is a test
