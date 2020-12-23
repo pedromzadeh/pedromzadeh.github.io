@@ -1004,6 +1004,7 @@ table tfoot td {
 
 a {
   font-size: 1em;
+  font-weight: 400;
   color: #333030;
   text-decoration: underline;
 
