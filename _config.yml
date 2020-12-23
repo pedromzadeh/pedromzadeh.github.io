@@ -9,14 +9,11 @@ url: "pedromzadeh.github.io" # the base hostname & protocol for your site, e.g. 
 
 # Author Settings
 author: Pedrom Zadeh # add your name
-author-img: profile_img.jpg # add your photo
+author-img: profile_img.png # add your photo
 about-author: Physics PhD @ Johns Hopkins # add description
 social-github: pedromzadeh # add your Github handle
 social-gscholar: citations?hl=en&user=UuQAMNgAAAAJ # add your Google Scholar url
 social-email: zadeh@jhu.edu # add your Email address
-
-# Disqus
-discus-identifier: mr-brown # add your discus identifier
 
 # Tracker
 analytics: # Google Analytics
