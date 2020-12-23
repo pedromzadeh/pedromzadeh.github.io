@@ -942,8 +942,8 @@ table tfoot td {
 }
 
 .about .cover-author-image {
-  width: 100px;
-  height: 100px;
+  width: 120px;
+  height: 120px;
   margin: 0 auto 10px;
   -webkit-border-radius: 100%;
           border-radius: 100%;
@@ -1008,6 +1008,7 @@ a {
   color: #333030;
   text-decoration: underline;
   padding : 0 5px 0 0;
+  margin-bottom: 10px;
 
     -webkit-transition: color 0.1s, font-size 0.1s;
        -moz-transition: color 0.1s, font-size 0.1s;
@@ -1084,6 +1085,7 @@ a:hover {
 
 .contact ul {
   margin: 0;
+  margin-top: 2x;
   padding: 0;
   list-style: none;
   text-align: center;
@@ -1442,8 +1444,8 @@ a.newer-posts:hover {
     margin: 10px auto auto;
   }
   .about img {
-    width: 100px;
-    height: 100px;
+    width: 120px;
+    height: 120px;
     -webkit-border-radius: 100%;
             border-radius: 100%;
     margin-bottom: 10px;
